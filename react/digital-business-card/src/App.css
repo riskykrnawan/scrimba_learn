@@ -1,0 +1,53 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  border-radius: 10px;
+  background-color: #1A1B21;
+  max-width: 317px;
+}
+
+.card-body {
+  padding: 24px 35px;
+  color: #fff;
+}
+
+.card-footer {
+  padding: 19.5px 35px;
+  background-color: #161619;
+}
+
+.fs-header-1 {
+  font-size: 25px;
+}
+
+.fs-body-1 {
+  font-size: 16px;
+}
+.fs-body-2 {
+  font-size: 13px;
+}
+.fs-body-3 {
+  font-size: 10.24px;
+}
+
+.text-color-1 {
+  color: #F3BF99;
+}
+
+.btn-email {
+  margin: 16px 0 32px 0;
+  width: 100%;
+  border-radius: 6px;
+  padding: 9px;
+  color: #000;
+  background-color: #fff;
+}
+
+.read-the-docs {
+  color: #888;
+}
